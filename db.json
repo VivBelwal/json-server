@@ -22,6 +22,8 @@
   ],
   "wishlisted_cars":[],
   "task_users":[],
-  "tasks": []
+  "tasks": [],
+  "dogs" : [],
+  "dog_admins":[]
     
 }
