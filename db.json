@@ -16,14 +16,8 @@
     }
   ],
   "books": [],
-  
-  "cars" : [
-
-  ],
-  "wishlisted_cars":[],
-  "task_users":[],
-  "tasks": [],
-  "dogs" : [],
-  "dog_admins":[]
+  "blogs":[],
+  "users":[]
+ 
     
 }
