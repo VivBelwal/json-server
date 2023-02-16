@@ -1,23 +1,7 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "name": "ray",
-      "email": "ray@GMAIL.COM",
-      "password": "ray1",
-      "role": "USER"
-    },
-    {
-      "name": "Viv",
-      "email": "viv@GMAIL.COM",
-      "password": "V",
-      "role": "USER",
-      "id": 3
-    }
-  ],
-  "books": [],
-  "blogs":[],
-  "users":[]
+  
+  "users" : [],
+  "companies" : []
  
     
 }
